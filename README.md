@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  I'm an Information Systems student at <strong>IFBA (Campus Vitória da Conquista, Brazil)</strong>.
+  I'm an Information Systems student at <strong>IFBA - Campus Vitória da Conquista, Brazil</strong>.
 </p>
 
 <p>
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/andre-luiz2077" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
-  <a href="https://www.instagram.com/iandreluiz_/?utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/iandreluiz_/?utm_source=qr](https://www.instagram.com/andree.dat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
   </a>
 </p>
@@ -50,8 +50,9 @@ These projects demonstrate my ability to apply academic knowledge to practical c
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52">
   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52">
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52">
-  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52">
+  <img alt="C" src="./assets/c_icon.svg" height="40" width="52">
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52">
+  <img alt="CSS3" src="assets/CSS3.svg" height="40" width="52">
 </p>
 
 ### Backend & Databases
@@ -59,7 +60,6 @@ These projects demonstrate my ability to apply academic knowledge to practical c
   <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52">
   <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="52">
   <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52">
-  <img alt="NoSQL" src="./assets/nosql.svg" height="40" width="52">
 </p>
 
 ### Infrastructure & DevOps
@@ -71,8 +71,7 @@ These projects demonstrate my ability to apply academic knowledge to practical c
 
 ### Data Analysis
 <p>
-  <img alt="Power BI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" width="52">
-  <em>(Experience with Data Analysis in Python)</em>
+  <em>Power BI (Experience with Data Analysis in Python)</em>
 </p>
 
 ### Desktop Development
