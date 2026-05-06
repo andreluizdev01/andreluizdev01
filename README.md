@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  I am a junior developer with a strong focus on <strong>Backend development (Python & Java)</strong> and a passion for technology. I am actively seeking my first job opportunity where I can apply my skills in software engineering, data, and infrastructure.
+  I am a junior developer with a strong focus on <strong>Backend development (Python & Java)</strong> and a passion for technology. I am actively seeking my first job opportunity where I can apply my skills in software engineering, data architecture, and infrastructure.
 </p>
 
 <p>
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/andre-luiz2077" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
-  <a href="https://www.instagram.com/iandreluiz_/?utm_source=qr](https://www.instagram.com/andree.dat/" target="_blank">
+  <a href="https://www.instagram.com/andree.dat/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile">
   </a>
 </p>
@@ -27,15 +27,21 @@
 
 ## 🚀 My Portfolio
 
-These projects demonstrate my ability to apply academic knowledge to practical challenges.
+These projects demonstrate my ability to apply academic knowledge to practical, high-performance challenges.
 
-### 1. Workshop Management System (Python & SQL)
+### 1. PromoScraper API (High-Performance Async Scraping)
+* **Description:** A robust, asynchronous REST API designed to scrape e-commerce promotions concurrently. Built to handle I/O-bound tasks efficiently without blocking the event loop, mirroring real-world data engineering challenges.
+* **Technologies:** Python 3.11+ (asyncio, aiohttp, BeautifulSoup4), FastAPI, PostgreSQL (asyncpg, SQLAlchemy), Docker (Multi-stage builds) & Pytest.
+* **Skills Demonstrated:** Asynchronous programming and concurrency control, RESTful API design, ORM integration, containerization for production environments, and test-driven development (TDD).
+* **[Link to Repository](https://github.com/andreedat/promoscraper-api)**
+
+### 2. Workshop Management System (Python & SQL)
 * **Description:** A Python CLI application to manage a mechanic workshop. It handles customer/vehicle registration, service management, invoicing, and complex reporting.
 * **Technologies:** Python, MySQL.
 * **Skills Demonstrated:** Relational Database Design, complex SQL queries (JOINs, Aggregates), and code organization (separation of concerns).
 * **[Link to Repository](https://github.com/andreluizdev01/trabalho-roberta)**
 
-### 2. Web Server Demo (Docker & API)
+### 3. Web Server Demo (Docker & API)
 * **Description:** An academic project to demonstrate the containerization of Nginx and Apache web servers using Docker. It includes a dynamic website that consumes the Open-Meteo API in real-time using JavaScript to display weather data.
 * **Technologies:** Docker, JavaScript (Fetch API), HTML/CSS, Nginx, Apache.
 * **Skills Demonstrated:** Writing custom Dockerfiles, consuming third-party REST APIs (JSON), and web infrastructure fundamentals.
@@ -57,9 +63,11 @@ These projects demonstrate my ability to apply academic knowledge to practical c
 
 ### Backend & Databases
 <p>
+  <img alt="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" width="52">
   <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52">
-  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="52">
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52">
   <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="52">
+  <img alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" width="52">
 </p>
 
 ### Infrastructure & DevOps
