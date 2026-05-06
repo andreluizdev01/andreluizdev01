@@ -95,9 +95,5 @@ My Information Systems coursework has provided me with a solid theoretical found
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreedat&show_icons=true&theme=gotham" alt="andreedat GitHub stats">
-</p>
-
-<p align="center">
   <img src="https://static.wikia.nocookie.net/e2045b72-9f45-4688-b862-2447ee749e76" width="600" alt="Personal Gif">
 </p>
